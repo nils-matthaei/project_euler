@@ -1,0 +1,6 @@
+[package]
+name = "pe_0014_longest_collatz_sequence"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
